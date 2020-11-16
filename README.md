@@ -5,6 +5,15 @@ This project contains a blender file with a script to generate images of gradien
 
 The purpose of this project was to create several images to use as the wallpaper on my laptop. I have set Windows to change my wallpaper every 5 minutes to a different gradient image from a folder of about 250 images.
 
+## Examples
+The follow are examples contained in the `final` folder.
+
+![/final/color_cubes_0.png](/final/color_cubes_0.png)
+
+![/final/color_cubes_1.png](/final/color_cubes_1.png)
+
+![/final/color_cubes_2.png](/final/color_cubes_2.png)
+
 ## Details
 Note the images in `final` have been generated as PNG files at a 1920x1080 resolution without compression and thus take up much disk space. Consider using the blender files to generate your own images at a custom size, resolution, and compression level.
 
