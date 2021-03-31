@@ -17,8 +17,5 @@ Different Colours:
 More Cubes:
 ![/final/color_cubes_2.png](/examples/example-3.png "Example 3")
 
-## Details
-Note the images in `generated` have been generated as PNG files at a 1920x1080 resolution without compression and thus take up much disk space. Consider using the blender files to generate your own images at a custom size, resolution, and compression level.
-
 ## Notes
 _Completed on March 29, 2020_
