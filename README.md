@@ -8,7 +8,7 @@ The purpose of this project was to create several images to use as the wallpaper
 ## Examples
 The follow are examples contained in the `examples` folder.
 
-My favourite settings:
+Using favourite settings:
 ![/final/color_cubes_0.png](/examples/example-1.png "Example 1")
 
 Different Colours:
